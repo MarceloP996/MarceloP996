@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelop996&label=Profile%20views&color=0e75b6&style=flat" alt="marcelop996" /> </p>
 
-- 🔭 Atualmente trabalhando em alguns **projetos de ciência e análise de dados**
+- 🔭 Analista de dados, estudando e criando **projetos de engenharia de dados**
 
 - 🌱 Em constante evolução na ciência e análise da dados: **Power BI, SQL, Python**
 
